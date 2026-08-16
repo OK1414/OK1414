@@ -11,7 +11,7 @@ I am currently building my portfolio through real-world projects
 using Python, SQL, and Excel — and I am always looking for 
 opportunities to grow and contribute.
 
-My Resume in [pdf](#) ← (add your resume link here later)
+My Resume in [pdf](https://github.com/OK1414/OK1414/blob/main/Onkar_Kate_Resume1.pdf) ← (add your resume link here later)
 
 This repository showcases my skills, projects, and progress 
 in Data Analytics.
