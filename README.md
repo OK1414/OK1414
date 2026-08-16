@@ -11,8 +11,7 @@ I am currently building my portfolio through real-world projects
 using Python, SQL, and Excel — and I am always looking for 
 opportunities to grow and contribute.
 
-My Resume in [pdf](https://github.com/OK1414/OK1414/blob/main/Onkar_Kate_Resume1.pdf) ← (add your resume link here later)
-
+My Resume in [pdf](https://github.com/OK1414/OK1414/blob/main/Onkar_Kate_Resume.pdf) 
 This repository showcases my skills, projects, and progress 
 in Data Analytics.
 
@@ -88,9 +87,9 @@ genre trends, and country-wise production patterns.
 ## Education
 
 - **Shivaji University, Kolhapur** — Master of Computer 
-  Applications (MCA), 2023 – 2025
-- **[Your Bachelor's College]** — [Your Bachelor's Degree], 
-  [Year] – [Year]
+  Applications (MCA), 2025 – 2027
+- **[Dr. Ganpatrao Deshmukh Mahavidyalaya, Sangola]** — [BCS], 
+  [2021] – [2024]
 
 ---
 
@@ -98,12 +97,11 @@ genre trends, and country-wise production patterns.
 
 - [Python Course](https://www.kaggle.com/learn/certification) 
   — Kaggle (2025)
-- [Google Cloud Gen AI Academy] — Hack2skill / Google (2026)
 - Pandas Course — Kaggle *(In Progress)*
 
 ---
 
 ## Contact
 
-- **LinkedIn:** [your-linkedin-url]
-- **Email:** [your-email]
+- **LinkedIn:** [www.linkedin.com/in/onkar-kate-376564353]
+- **Email:** [onkarkate14144@gmail.com]
