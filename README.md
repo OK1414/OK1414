@@ -88,8 +88,8 @@ genre trends, and country-wise production patterns.
 
 - **Shivaji University, Kolhapur** — Master of Computer 
   Applications (MCA), 2025 – 2027
-- **[Dr. Ganpatrao Deshmukh Mahavidyalaya, Sangola]** — [BCS], 
-  [2021] – [2024]
+- **Dr. Ganpatrao Deshmukh Mahavidyalaya, Sangola** — Bachelor of Computer Science (BCS), 
+  2021 – 2024
 
 ---
 
