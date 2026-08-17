@@ -12,6 +12,7 @@ using Python, SQL, and Excel — and I am always looking for
 opportunities to grow and contribute.
 
 My Resume in [pdf](https://github.com/OK1414/OK1414/blob/main/Onkar_Kate_Resume.pdf) 
+
 This repository showcases my skills, projects, and progress 
 in Data Analytics.
 
