@@ -1,4 +1,4 @@
-# Hi, I'm OK 👋
+# Hi, I'm Onkar 👋
 
 ### Data Analyst Fresher | Python • SQL • Pandas • Excel
 ### Open to Remote Data Analyst Internships
