@@ -1,139 +1,170 @@
-# Hi, I'm Onkar 👋
 
-### Software Developer Fresher | JavaScript • Node.js • Express.js • MongoDB
+<!-- ================= PROFILE HEADER ================= -->
 
-I am a final-year MCA student at Shivaji University, Kolhapur.
+<div align="center">
 
-I have a strong foundation in software development and a passion for building practical web applications, developing backend functionality, and working with databases.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:123B67,100:2563EB&height=190&section=header&text=ONKAR%20KATE&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descSize=17" width="100%" />
 
-I am currently strengthening my development skills through hands-on projects using JavaScript, Node.js, Express.js, MongoDB, and other web technologies — and I am always looking for opportunities to learn, grow, and contribute.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Onkar+Kate+%F0%9F%91%8B;Software+Developer;Building+Web+Applications;Learning+and+Growing+Every+Day" alt="Typing SVG" />
 
-My Resume in [pdf](https://github.com/OK1414/OK1414/blob/main/Onkar_Kate_Resume.pdf)
+<p>
+  <a href="https://www.linkedin.com/in/onkar-kate1414/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/OK1414">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-This repository showcases my technical skills, projects, and progress in Software Development.
-
----
-
-## Table of Contents
-
-- [About](#hi-im-onkar-)
-- [Technical Skills](#technical-skills)
-- [Portfolio Projects](#portfolio-projects)
-  - Backend Development
-    - [ParkingBay Backend](#parkingbay-backend-development)
-  - Web Development
-    - [Cosmetic Application](#cosmetic-application)
-  - Data Analytics
-    - [Zomato Restaurant Data Analysis](#zomato-restaurant-data-analysis)
-    - [Netflix SQL Analysis](#netflix-sql-analysis)
-- [Education](#education)
-- [Certificates](#certificates)
-- [Contact](#contact)
+</div>
 
 ---
 
-## Technical Skills
+<!-- ================= ABOUT ME ================= -->
 
-**Programming Languages:** JavaScript, Python, SQL
+## 👨‍💻 About Me
 
-**Frontend Technologies:** HTML, CSS, JavaScript, React.js (Basics)
+I'm **Onkar Kate**, an MCA student with a Computer Science background and a strong interest in Software Development.
 
-**Backend Technologies:** Node.js, Express.js, REST APIs, CRUD Operations
-
-**Databases:** MongoDB, MySQL, PostgreSQL
-
-**Tools & Platforms:** Git, GitHub, VS Code, Postman, AWS EC2, S3, CloudFront, Linux, Ubuntu
-
-**Data Analysis Skills:** Python, Pandas, NumPy, Matplotlib, Power BI, Excel
-
----
-
-## Portfolio Projects
-
-In this section, I showcase my software development projects, briefly describing the technologies and skills used to build and deploy applications.
+- 💼 Currently working as a **Software & Technology Intern at Dhion**.
+- 🌱 Learning and building applications with the **MERN Stack**.
+- 💻 Interested in both Frontend and Backend Development.
+- 🛠️ Gaining practical experience through real-world projects.
+- 🤝 Interested in teamwork, problem-solving and continuous learning.
+- 🎯 Goal: To become a skilled Full Stack Software Developer.
 
 ---
 
-### ParkingBay Backend Development
+<!-- ================= TECH STACK ================= -->
 
-**Code:** [ParkingBay](https://github.com/OK1414/ParkingBay)
+## 🛠️ Technical Skills
 
-**Goal:** To develop and understand backend functionality for a parking management application.
+### Programming Languages
 
-**Description:** Working with Node.js and Express.js to understand backend architecture, project structure, API development, routing, CRUD operations, and database integration.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
 
-**Skills:** Backend development, API development, CRUD operations, database integration, problem-solving.
+### Frontend Development
 
-**Technology:** JavaScript, Node.js, Express.js, MongoDB, Postman.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
----
+### Backend Development
 
-### Cosmetic Application
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Code:** [Cosmetic App](https://github.com/OK1414/cosmetic_app)
+### Databases
 
-**Goal:** To deploy and configure a web application in a cloud environment.
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-**Description:** Worked on deploying a web application using AWS EC2. Worked with backend environment configuration, database setup, Nginx configuration, and application deployment on an Ubuntu server.
+### Tools & Technologies
 
-**Skills:** Application deployment, server configuration, database configuration, Linux server management.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode,postman" />
+</p>
 
-**Technology:** Node.js, MongoDB, AWS EC2, Ubuntu, Nginx.
-
----
-
-### Zomato Restaurant Data Analysis
-
-**Code:** [Zomato Data Analysis](https://github.com/OK1414/zomato-data-analysis)
-
-**Goal:** To analyze Zomato restaurant data and uncover insights about ratings, pricing, and cuisine trends across cities.
-
-**Description:** Loaded a real Zomato dataset, cleaned and preprocessed raw data, performed Exploratory Data Analysis (EDA), and created visualizations to identify patterns in restaurant ratings, price ranges, and popular cuisines.
-
-**Skills:** Data cleaning, EDA, data visualization, pattern recognition.
-
-**Technology:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook.
-
-**Results:** Identified top-rated restaurant categories, price vs rating correlations, and popular cuisines.
+**Currently improving:** JavaScript, React.js, Node.js, Express.js, TypeScript, REST APIs, Database Management and Data Structures & Algorithms.
 
 ---
 
-### Netflix SQL Analysis
+<!-- ================= EXPERIENCE ================= -->
 
-**Code:** [Netflix SQL Analysis](https://github.com/OK1414/netflix-sql-analysis)
+## 💼 Experience
 
-**Goal:** To explore and analyze the Netflix titles dataset by solving 15 real business questions using SQL.
+### Software & Technology Intern — Dhion
 
-**Description:** Used PostgreSQL to perform exploratory data analysis on the Netflix dataset. Worked with multi-value columns and SQL queries involving window functions, joins, and aggregations to answer business-driven questions.
+- Contributing to a School Management System.
+- Working with React.js, TypeScript, Node.js, Express.js and PostgreSQL.
+- Contributed to dashboard implementation through GitHub pull requests.
+- Created implementation plans and coding guidelines.
+- Practicing collaborative development using Git, GitHub and Docker.
 
-**Skills:** SQL querying, EDA, window functions, data exploration, multi-value column handling.
+<!-- ================= PROJECTS ================= -->
 
-**Technology:** SQL, PostgreSQL.
+## 🚀 Featured Projects
 
-**Results:** Solved 15 business questions revealing insights about Netflix content distribution, genre trends, and country-wise production patterns.
+### 1. School Management System
+
+**Technologies:** React.js, TypeScript, Node.js, Express.js, PostgreSQL, Docker
+
+- Contributing to dashboard development.
+- Working with implementation planning and development workflows.
+- Collaborating through GitHub branches and pull requests.
+
+### 2. ParkingBay Backend
+
+**Technologies:** Node.js, Express.js, MongoDB
+
+- Backend development practice.
+- REST API and CRUD operation concepts.
+- Database integration and backend structure.
+
+### 3. Cosmetic Application
+
+**Technologies:** Node.js, MongoDB, AWS EC2, Ubuntu, Nginx
+
+- Practiced application deployment on AWS EC2.
+- Worked with server configuration and database setup.
 
 ---
 
-## Education
+<!-- ================= GITHUB STATS ================= -->
 
-- **Shivaji University, Kolhapur** — Master of Computer Applications (MCA), 2025 – 2027
-- **Dr. Ganpatrao Deshmukh Mahavidyalaya, Sangola** — Bachelor of Computer Science (BCS), 2021 – 2024
+## 📊 GitHub Statistics
 
----
+<div align="center">
 
-## Certificates
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OK1414&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-- [Python Course](https://www.kaggle.com/learn/certification) — Kaggle (2025)
-- Pandas Course — Kaggle (In Progress)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OK1414&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+<br/>
 
-## Contact
+<img src="https://streak-stats.demolab.com?user=OK1414&theme=tokyonight&hide_border=true" width="70%" />
 
-- **LinkedIn:** [Onkar Kate](https://www.linkedin.com/in/onkar-kate-376564353/)
-- **Email:** onkarkate14144@gmail.com
-- **GitHub:** [OK1414](https://github.com/OK1414)
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OK1414&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning new technologies and exploring software development opportunities.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/onkar-kate1414/">
+    <img src="https://img.shields.io/badge/LinkedIn-Onkar%20Kate-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/OK1414">
+    <img src="https://img.shields.io/badge/GitHub-OK1414-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning. Keep Building. Keep Growing.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:123B67,100:2563EB&height=100&section=footer" width="100%" />
+
+</div>
